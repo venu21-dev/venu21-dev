@@ -1,6 +1,7 @@
 Hello, I'm Venu 👋
 
-I'm an upcoming developer focused on iOS app development using Flutter and Dart. I have a basic background in HTML, CSS, and JavaScript, which I've used for simple web projects. I'm passionate about learning, improving my skills, and taking on more complex challenges. 
+I am currently working towards becoming a developer, with a focus on iOS app development using Flutter and Dart. I have a foundational background in HTML, CSS, and JavaScript, which I've utilized in simple web projects. 
+I'm passionate about learning, improving my skills, and taking on more complex challenges.
 
 Check out my repositories for my latest projects — I welcome feedback and collaboration!
 

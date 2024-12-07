@@ -1,4 +1,4 @@
-# 🦇 About Me:
+# 🦇 About Me: 
 Hi, I'm Venu 👋<br><br>"I am actively working to expand my skills by applying them in projects.<br>My goal is to continuously enhance my knowledge and tackle more complex challenges."<br><br>Check out my repositories for my latest projects — I welcome feedback and collaboration!<br><br>Additional skills not listed:<br><br>- Figma & Photoshop: UI/UX design and prototyping
 
 
